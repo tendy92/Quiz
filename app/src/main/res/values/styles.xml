@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="digiteam">
+        <item name="android:textSize">
+            16sp
+        </item>
+        <item name="android:textColor">
+            #212121
+        </item>
+    </style>
+    <style name="digital_tog">
+        <item name="android:textSize">
+            12sp
+        </item>
+        <item name="android:textColor">
+            #757575
+        </item>
+    </style>
+    <style name="jabar_digit">
+        <item name="android:textSize">
+            12sp
+        </item>
+        <item name="android:textColor">
+            #757575
+        </item>
+    </style>
+</resources>
